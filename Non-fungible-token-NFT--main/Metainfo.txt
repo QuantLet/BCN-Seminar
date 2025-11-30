@@ -1,0 +1,10 @@
+Name of Quantlet:	BCN_Non_fungible_token
+
+Published in:		Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
+
+Description:		'A non-fungible token (NFT) is a unique digital identifier that is recorded on a blockchain and is used to certify ownership and authenticity'
+
+Keywords:			NFT, 
+Author:				Wolfgang Karl Härdle, Siyi Rao
+
+Submitted:			30. Nov 2025, Siyi Rao
