@@ -1,0 +1,19 @@
+Name of Quantlet:      Crypto Currencies
+
+Published in:          Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
+
+Description:           
+    'Comprehensive introduction to cryptocurrencies, blockchain fundamentals, 
+     proof-of-work mechanisms, and crypto market behavior. The Quantlet illustrates 
+     hashing (SHA-256), nonce iterations, block structure, CRIX, VCRIX, 
+     volatility patterns, and key stylized facts of cryptocurrency markets.'
+
+Keywords:              
+    cryptocurrency, blockchain, proof-of-work, SHA-256, hashing, CRIX, VCRIX, 
+    volatility, returns, correlations, digital assets, Bitcoin, Ethereum
+
+Author:               
+    Muhammad Mujtaba Sarwar
+
+Submitted:            
+    02. Dec 2025, Muhammad Mujtaba Sarwar
