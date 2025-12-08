@@ -1,10 +1,11 @@
-Name of Quantlet:	Cointegration between ETH and BTC
+Name of Quantlet: Cointegration between ETH and BTC
 
-Published in:		Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
+Published in:     Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description:		'This courselet offers an empirical investigation into the cointegration relationship between Bitcoin and Ethereum, guiding learners from the pitfalls of correlation to the discovery of regime-dependent statistical arbitrage opportunities.'
+Description:      'This courselet offers an empirical investigation into the cointegration relationship between Bitcoin and Ethereum, guiding learners from the pitfalls of correlation to the discovery of regime-dependent statistical arbitrage opportunities.'
 
-Keywords:			ETH, BTC, Cointegration
-Author:				Xiaotong WU, Wolfgang Karl Härdle
+Keywords:         ETH, BTC, Cointegration
 
-Submitted:			7. Dec 2025, Xiaotong WU
+Author:           Xiaotong WU, Wolfgang Karl Härdle
+
+Submitted:        7. Dec 2025, Xiaotong WU
