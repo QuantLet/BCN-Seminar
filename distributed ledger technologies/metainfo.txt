@@ -1,0 +1,38 @@
+Name of Quantlet: sbi Distributed Ledger Technologies
+
+Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26) Class
+
+Description:
+This Quantlet implements a minimal distributed ledger (DLT) simulation in Python.
+Four nodes (Alice, Bob, Carol, Dave) maintain local blockchains with signed
+transactions, majority-vote consensus, replay protection via nonces and tx_ids,
+and account-balance state updates. The code demonstrates how blocks are formed
+(index, prev_hash, transactions, hash), how consensus is reached, and verifies
+that all nodes end with identical blockchains, identical balances, and conserved
+total supply.
+
+Keywords:
+Distributed Ledger, Blockchain, Digital Signatures, Consensus, ECDSA, Python
+
+Author: SBIHI Younes
+
+Submitted: 2025-11-24
+
+Datafile: None (all transactions are generated synthetically in the code)
+
+Input:
+No external input is required. The Quantlet uses a fixed random seed to generate
+a sequence of synthetic transactions between four accounts.
+
+Output:
+Console summary of blockchain height per node, final balances per node,
+and internal consistency checks (equality of chains, equality of balances,
+and conservation of total supply). Optionally, a PNG plot of final balances
+(Balances.png) can be saved.
+
+Example:
+Run sbi-Distributed-Ledger-Technologies.py. The script prints:
+- Blockchain height for each node (same number of blocks),
+- Final balances for Alice, Bob, Carol, Dave (identical across nodes),
+- Total supply (unchanged from initial state).
+If plotting is enabled, Balances.png shows the final account balances.
