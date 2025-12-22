@@ -1,4 +1,4 @@
-Name of Quantlet: CBDC_Blockchain
+Name of Quantlet: CBDC
 
 Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
