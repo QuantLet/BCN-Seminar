@@ -1,11 +1,11 @@
 Name of Quantlet: CBDC
 
-Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
+Published in:     Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description: Builds a minimal blockchain in Python with a genesis block and subsequent blocks linked by SHA-256 hashes, demonstrating basic hashing and chain integrity concepts.
+Description:      Builds a minimal blockchain in Python with a genesis block and subsequent blocks linked by SHA-256 hashes, demonstrating basic hashing and chain integrity concepts.
 
-Submitted: Albraa Elawady, 15.12.2025
+Submitted:        Albraa Elawady, 15.12.2025
 
-Keywords: blockchain, python, sha256, hashing, genesis block, linked list, educational demo
+Keywords:         blockchain, python, sha256, hashing, genesis block, linked list, educational demo
 
-Author: Albraa Elawady
+Author:           Albraa Elawady
