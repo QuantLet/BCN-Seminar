@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+/* Load necessary plugins */
+@plugin "@tailwindcss/forms";
+@plugin "@tailwindcss/container-queries";
+
+@theme {
+  /* 
+    1. Custom Colors
+    These match your original "tailwind.config" from the Vite project.
+  */
+  --color-primary: #1a936f;
+  --color-accent-gold: #E2B04E;
+  --color-background-light: #f6f7f8;
+  --color-background-dark: #1a1d23;
+  --color-surface-dark: #2B2D33;
+  --color-border-dark: #3B4048;
+
+  /* 
+    2. Fonts
+    Links the Next.js font variable (--font-manrope) to tailwind utility 'font-display'
+  */
+  --font-display: var(--font-manrope), "Manrope", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, "Menlo", "Monaco", "Consolas", monospace;
+
+  /* 3. Animation Settings */
+  --animate-duration: 300ms;
+}
+
+/* 
+  4. Dark Mode Configuration
+  This ensures the '.dark' class on the HTML tag triggers dark mode styles.
+*/
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* 
+  5. Custom Utilities 
+  (Glass effect and Custom Scrollbar)
+*/
+@layer utilities {
+  .glass {
+    background: rgba(43, 45, 51, 0.7);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #3B4048;
+    border-radius: 10px;
+  }
+}
+
+/* Reset basics */
+html, body {
+  height: 100%;
+}

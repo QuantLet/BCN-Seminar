@@ -9,7 +9,7 @@ Name of Quantlet: BCN_VotingToken
 
 Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description: SORE Voting Token
+Description: QNAR Voting Token
 
 Keywords: Smart Contract, Smart Contracts, Blockchain, Crypto, Ethereum, EVM, ethereum virtual machine, DApps, Decentralized application, dApp, dApps, Voting Token, Token, ERC-20
 
