@@ -1,0 +1,11 @@
+Name of Quantlet: Blockchain in Healthcare
+
+Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
+
+Description: Implements a minimal proof-of-work blockchain in Python for a healthcare demo. The application provides a CLI where users can create off-chain medical documents (simulated EHR storage), register on-chain integrity proofs via SHA-256 hashes and pointers, manage patient-to-provider consent, log audited access events, mine pending transactions into PoW blocks, and validate chain integrity. 
+
+Submitted: Albraa Elawady, 08.02.2026
+
+Keywords: healthcare, blockchain, python, proof of work, sha256, hashing, consent management, audit log, off-chain storage, CLI, genesis block, chain integrity 
+
+Author: Albraa Elawady 
