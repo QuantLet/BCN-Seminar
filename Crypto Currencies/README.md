@@ -9,9 +9,9 @@ Name of Quantlet: Crypto Currencies
 
 Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description: Overview of blockchain basics, SHA-256 hashing, Proof-of-Work,
+Description: Overview of blockchain basics, SHA-256 hashing, Proof-of-Work, and key crypto market indices including CRIX and VCRIX.
 
-Keywords: cryptocurrency, blockchain, proof-of-work, SHA-256, hashing,
+Keywords: cryptocurrency, blockchain, proof-of-work, SHA-256, hashing, CRIX, VCRIX, volatility, returns, correlations, digital assets, Bitcoin, Ethereum
 
 Author: Wolfgang Karl Härdle, Muhammad Mujtaba Sarwar
 
