@@ -9,9 +9,9 @@ Name of Quantlet: Islamic Banking & Blockchain
 
 Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description: Overview of Islamic banking principles, profit-and-loss
+Description: Overview of Islamic banking principles, profit-and-loss sharing contracts, distinction from Hawala, and the role of blockchain in enforcing rule-based, state-dependent financial contracts using a Monte Carlo simulation.
 
-Keywords: Islamic banking, Mudarabah, profit-and-loss sharing,
+Keywords: Islamic banking, Mudarabah, profit-and-loss sharing, Hawala, blockchain, smart contracts, risk allocation, Monte Carlo simulation, financial contracts
 
 Author: Wolfgang Karl Härdle, Muhammad Mujtaba Sarwar
 
