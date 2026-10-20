@@ -9,7 +9,7 @@ Name of Quantlet: BCN_SHA-256
 
 Published in: Blockchains, Crypto Currencies, Network Analytics (WS 25/26)
 
-Description: Illustration how the cryptographic hash function SHA-256 works and
+Description: Illustration how the cryptographic hash function SHA-256 works and how it underpins Bitcoin and other blockchain applications.
 
 Keywords: SHA-256, secure hash algorithm, cryptographic hash, blockchain, Bitcoin, proof-of-work
 
